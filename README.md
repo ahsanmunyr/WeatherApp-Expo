@@ -18,7 +18,7 @@ Modify information in the **api/ConsultApi.js** file
 ```js
 axios.get(`https://api.weatherapi.com/v1/forecast.json?key=<API_KEY>...`)
 ```
-"API_KEY" -> Here you will need to put your KEY to access the api, create your account at [weatherapi.com](https://weatherapi.com).<br/>
+"API_KEY" -> Here you will need to put your KEY to access the api, create your account at [weatherapi.com](https://www.weatherapi.com/).<br/>
 
 ---
 After the change, give the command on the console to start the project
